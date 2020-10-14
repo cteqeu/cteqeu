@@ -1,6 +1,10 @@
 ### Hi there 👋
 ✨Have a Nice Day ✨
 
+FPGA, LabVIEW, Embedded AI and ML topics covered on this github account.
+
+👯 I’m looking to collaborate on FPGA and GPU Acceleration.
+
 <!--
 **cteqeu/cteqeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
