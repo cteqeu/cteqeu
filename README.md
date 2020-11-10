@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 
 
-[![cteqeu's github stats](https://github-readme-stats.vercel.app/api?username=cteqeu) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cteqeu&layout=compact)
+![cteqeu's github stats](https://github-readme-stats.vercel.app/api?username=cteqeu) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cteqeu&layout=compact)
