@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![cteqeu's github stats](https://github-readme-stats.vercel.app/api?username=cteqeu) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cteqeu&layout=compact)
 
 <a href="https://github-readme-stats.vercel.app/api?username=cteqeu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cteqeu&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/github-stats/?username=cteqeu&layout=compact" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=cteqeu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cteqeu&layout=compact" />
